@@ -1,0 +1,21 @@
+Discordius Bot Commands
+-----------------------
+d?durl: Sends you a random discord invite.
+d?botinvite: Gives you a link to invite the bot.
+d?help: A small help command.
+d?botinfo: The bot's desc. [DEAD COMMAND]
+d?wurl: Sends you a random website. [WIP]
+d?joinserver: Invites you to the bot's info server.
+d?staff: Shows the Discordius staff members.
+d?partners: Shows you our partners.
+d?creator: Shows you who made Discordius. [USELESS]
+d?userinfo (mention a user): Shows you the user's info.
+d?donators: Shows you the patreon supporters
+d?botcard: An advanced info of the bot.
+d?randomnumber: Generates a random number.
+d?randomjoke: Tells you a random joke.
+d?8ball: Ask the 8ball!
+d?rate: Rates anything from 1/10 to 10/10.
+d?serversjoined: Shows the servers that the bot is in. 
+------------------------
+More coming soon!
